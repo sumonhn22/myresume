@@ -106,15 +106,15 @@ st.markdown('''
 ''')
 
 #####################
-st.markdown('''
-## Experience
-''')
-st.markdown('''
-- Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
-- Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
-- Set budget and handle procurement in order to facilitate education and research activities. Secured `> 10 million THB` budget.
-- Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
-''')
+# st.markdown('''
+# ## Experience
+# ''')
+# st.markdown('''
+# - Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
+# - Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
+# - Set budget and handle procurement in order to facilitate education and research activities. Secured `> 10 million THB` budget.
+# - Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
+# ''')
 
 # txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
 # '2012-2021')
@@ -177,7 +177,7 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `MatLab`, `Linux`', 'JavaScript')
+txt3('Programming', '`Python`, `MatLab`, `Linux`, `JavaScript`')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
 txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `ggplot2`')
 txt3('Machine Learning', '`scikit-learn`')
