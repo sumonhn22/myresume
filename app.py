@@ -106,9 +106,9 @@ st.markdown('''
 ''')
 
 #####################
-st.markdown('''
-## Experience
-''')
+# st.markdown('''
+# ## Experience
+# ''')
 # st.markdown('''
 # - Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
 # - Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
