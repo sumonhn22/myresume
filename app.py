@@ -16,11 +16,13 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Educator, Researcher and Administrator with almost twenty years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research .
+- Experienced Educator and Researcher with almost ten years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
+- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `5` conferences as well as publishing 149 research articles.
+- Strong track record in scholarly research.
 ''')
-
+##  Experienced Educator and Researcher with almost ten years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
+## - Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
+## - Strong track record in scholarly research .
 #####################
 # Navigation
 
@@ -94,14 +96,12 @@ st.markdown('''
 txt('**Doctor of Philosophy** (Mathematics), *University of Groningen*, Netherlands',
 '2018-2022')
 st.markdown('''
-- Research thesis entitled `Computer and machine learning approach`.
-- Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
+- Research thesis entitled `Reduced realizations and model reduction for switched linear systems`.
 ''')
-
-txt('**Masters of Science** (Mathematics), *BUET*, Bangladesh',
+## - Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
+txt('**Masters of Philosophy** (Mathematics), *BUET*, Bangladesh',
 '2014-2017')
 st.markdown('''
-- GPA: `3.55`
 - Graduated with First Class Honors.
 ''')
 
@@ -109,9 +109,6 @@ st.markdown('''
 st.markdown('''
 ## Experience
 ''')
-
-txt('**Head, Center of Data Mining and Biomedical Informatics**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2011-2021')
 st.markdown('''
 - Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
 - Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
@@ -119,61 +116,61 @@ st.markdown('''
 - Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
 ''')
 
-txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2012-2021')
-txt('**Assistant Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2009-2012')
-txt('**Lecturer**, Faculty of Medical Technology, Mahidol University, Thailand',
-'2006-2009')
-st.markdown('''
-- Provided mentorship and supervision to junior faculty, researchers, Ph.D./M.Sc./B.Sc. students. Mentored `3` Post-doctoral fellows, supervised `13` Ph.D. students, supervised `8` M.Sc. students, supervised `13` B.Sc. students and hosted `6` visiting students from U.S., Sweden and India.
-- Wrote and applied for research grants. Served as Principal Investigator for research grants that have been awarded `12.5 million THB` and `1.117 million SEK` in research funding from Thai and Swedish grant agencies.
-- Conducted research by applying machine learning to computational drug discovery and ensuring that research output exceeds `20+` articles per year.
-- Taught `10+` undergraduate/graduate classes on Bioinformatics, Data Mining, Scientific Research and Presentation, Research Methodology, Graduate Seminar, Programming for Health Data Science, etc.
-- Peer reviewed `100+` research articles for leading scientific journals.
-''')
+# txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
+# '2012-2021')
+# txt('**Assistant Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
+# '2009-2012')
+# txt('**Lecturer**, Faculty of Medical Technology, Mahidol University, Thailand',
+# '2006-2009')
+# st.markdown('''
+# - Provided mentorship and supervision to junior faculty, researchers, Ph.D./M.Sc./B.Sc. students. Mentored `3` Post-doctoral fellows, supervised `13` Ph.D. students, supervised `8` M.Sc. students, supervised `13` B.Sc. students and hosted `6` visiting students from U.S., Sweden and India.
+# - Wrote and applied for research grants. Served as Principal Investigator for research grants that have been awarded `12.5 million THB` and `1.117 million SEK` in research funding from Thai and Swedish grant agencies.
+# - Conducted research by applying machine learning to computational drug discovery and ensuring that research output exceeds `20+` articles per year.
+# - Taught `10+` undergraduate/graduate classes on Bioinformatics, Data Mining, Scientific Research and Presentation, Research Methodology, Graduate Seminar, Programming for Health Data Science, etc.
+# - Peer reviewed `100+` research articles for leading scientific journals.
+# ''')
 
-txt('**Co-Chair**, International Conference on Pharmaceutical Bioinformatics at Pattaya, Thailand',
-'2016')
-st.markdown('''
-- Oversee all aspects of the conference preparations from conception to launch. This include inviting keynote and plenary speakers, create advertisement flyers, create abstract book, etc.
-- Conference attracted `200+` participants from `40+` countries from university and industry sector.
-- Chaired keynote session, technical workshop and some of the parallel sessions.
-''')
+# txt('**Co-Chair**, International Conference on Pharmaceutical Bioinformatics at Pattaya, Thailand',
+# '2016')
+# st.markdown('''
+# - Oversee all aspects of the conference preparations from conception to launch. This include inviting keynote and plenary speakers, create advertisement flyers, create abstract book, etc.
+# - Conference attracted `200+` participants from `40+` countries from university and industry sector.
+# - Chaired keynote session, technical workshop and some of the parallel sessions.
+# ''')
 
-txt('**Content Creator**, [Data Professor YouTube Channel](https://youtube.com/dataprofessor/)',
-'2019-Present')
-st.markdown('''
-- `100,000+` subscribers on YouTube
-- Created `261` educational videos on data science, machine learning and bioinformatics as well as hosted several podcast episodes with data scientists.
-- Created `3` sponsored videos for Notion, Gradio and Classpert.
-''')
+# txt('**Content Creator**, [Data Professor YouTube Channel](https://youtube.com/dataprofessor/)',
+# '2019-Present')
+# st.markdown('''
+# - `100,000+` subscribers on YouTube
+# - Created `261` educational videos on data science, machine learning and bioinformatics as well as hosted several podcast episodes with data scientists.
+# - Created `3` sponsored videos for Notion, Gradio and Classpert.
+# ''')
 
-txt('**Content Creator**, [Coding Professor YouTube Channel](https://youtube.com/codingprofessor/)',
-'2019-Present')
-st.markdown('''
-- `3,200+` subscribers on YouTube
-- Created `38` educational videos on Python and R programming.
-''')
+# txt('**Content Creator**, [Coding Professor YouTube Channel](https://youtube.com/codingprofessor/)',
+# '2019-Present')
+# st.markdown('''
+# - `3,200+` subscribers on YouTube
+# - Created `38` educational videos on Python and R programming.
+# ''')
 
-txt('**Technical Writer**, [Data Professor Blog](https://data-professor.medium.com/) on Medium.com',
-'2019-Present')
-st.markdown('''
-- `4,100+` subscribers on Medium
-- Written `68` technical blogs on data science, machine learning and bioinformatics.
-''')
+# txt('**Technical Writer**, [Data Professor Blog](https://data-professor.medium.com/) on Medium.com',
+# '2019-Present')
+# st.markdown('''
+# - `4,100+` subscribers on Medium
+# - Written `68` technical blogs on data science, machine learning and bioinformatics.
+# ''')
 
 #####################
-st.markdown('''
-## Tools
-''')
-txt4('ABCpred', 'A web server for the discovery of acetyl- and butyryl-cholinesterase inhibitors', 'http://codes.bio/abcpred/')
-txt4('AutoWeka', 'An automated data mining software based on Weka', 'http://www.mt.mahidol.ac.th/autoweka/')
-txt4('ACPred', 'A computational tool for the prediction and analysis of anticancer peptides','http://codes.bio/acpred/')
-txt4('BioCurator', 'A web server for curating ChEMBL bioactivity data', 'http://codes.bio/biocurator/')
-txt4('CryoProtect', 'A web server for classifying antifreeze proteins from non-antifreeze proteins','http://codes.bio/cryoprotect/')
-txt4('ERpred', 'A web server for the prediction of subtype-specific estrogen receptor antagonists', 'http://codes.bio/erpred')
-txt4('HCVpred', 'A web server for predicting the bioactivity of Hepatitis C virus NS5B inhibitors', 'http://codes.bio/hemopred/')
+# st.markdown('''
+# ## Tools
+# ''')
+# txt4('ABCpred', 'A web server for the discovery of acetyl- and butyryl-cholinesterase inhibitors', 'http://codes.bio/abcpred/')
+# txt4('AutoWeka', 'An automated data mining software based on Weka', 'http://www.mt.mahidol.ac.th/autoweka/')
+# txt4('ACPred', 'A computational tool for the prediction and analysis of anticancer peptides','http://codes.bio/acpred/')
+# txt4('BioCurator', 'A web server for curating ChEMBL bioactivity data', 'http://codes.bio/biocurator/')
+# txt4('CryoProtect', 'A web server for classifying antifreeze proteins from non-antifreeze proteins','http://codes.bio/cryoprotect/')
+# txt4('ERpred', 'A web server for the prediction of subtype-specific estrogen receptor antagonists', 'http://codes.bio/erpred')
+# txt4('HCVpred', 'A web server for predicting the bioactivity of Hepatitis C virus NS5B inhibitors', 'http://codes.bio/hemopred/')
 
 
 #####################
