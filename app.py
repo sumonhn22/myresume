@@ -96,7 +96,7 @@ st.markdown('''
 txt('**Doctor of Philosophy** (Mathematics), *University of Groningen*, Netherlands',
 '2018-2022')
 st.markdown('''
-- Research thesis entitled `Reduced realizations and model reduction for switched linear systems`.
+- Thesis entitled `Reduced realizations and model reduction for switched linear systems`.
 ''')
 ## - Received Royal Golden Jubilee Ph.D. Scholarship of `2.152 million THB` covering tuition and stipend.
 txt('**Masters of Philosophy** (Mathematics), *BUET*, Bangladesh',
@@ -109,12 +109,12 @@ st.markdown('''
 st.markdown('''
 ## Experience
 ''')
-st.markdown('''
-- Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
-- Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
-- Set budget and handle procurement in order to facilitate education and research activities. Secured `> 10 million THB` budget.
-- Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
-''')
+# st.markdown('''
+# - Managing a Center of `10` professors, researchers and students to ensure KPIs are strategically achieved namely to publish at least `20+` research publications annually. 
+# - Actively took part in the talent hiring process as well as help employees to plan and develop their career path.
+# - Set budget and handle procurement in order to facilitate education and research activities. Secured `> 10 million THB` budget.
+# - Set and reflect on OKR on an annual basis to ensure productivity strategically matches the organization's direction.
+# ''')
 
 # txt('**Associate Professor**, Faculty of Medical Technology, Mahidol University, Thailand',
 # '2012-2021')
@@ -177,25 +177,26 @@ st.markdown('''
 st.markdown('''
 ## Skills
 ''')
-txt3('Programming', '`Python`, `R`, `Linux`')
+txt3('Programming', '`Python`, `MatLab`, `Linux`', 'JavaScript')
 txt3('Data processing/wrangling', '`SQL`, `pandas`, `numpy`')
-txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `altair`, `ggplot2`')
+txt3('Data visualization', '`matplotlib`, `seaborn`, `plotly`, `ggplot2`')
 txt3('Machine Learning', '`scikit-learn`')
 txt3('Deep Learning', '`TensorFlow`')
 txt3('Web development', '`Flask`, `HTML`, `CSS`')
-txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
+txt3('Model deployment', '`streamlit`, `Docker`, `Kubernates`, `Heroku`, `AWS`, `GitHub, CI/CD`')
+## txt3('Model deployment', '`streamlit`, `gradio`, `R Shiny`, `Heroku`, `AWS`, `Digital Ocean`')
 
 #####################
 st.markdown('''
 ## Social Media
 ''')
-txt2('LinkedIn', 'https://www.linkedin.com/in/chanin-nantasenamat')
-txt2('Twitter', 'https://twitter.com/thedataprof')
-txt2('GitHub', 'https://github.com/chaninn/')
-txt2('', 'https://github.com/chaninlab/')
-txt2('', 'https://github.com/dataprofessor')
-txt2('ORCID', 'http://orcid.org/0000-0003-1040-663X')
-txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
-txt2('ResearcherID', 'http://www.researcherid.com/rid/F-1021-2010')
-txt2('ResearchGate', 'https://www.researchgate.net/profile/Chanin_Nantasenamat')
+txt2('LinkedIn', 'https://www.linkedin.com/in/md-sumon-hossain-197152ba/')
+## txt2('Twitter', 'https://twitter.com/thedataprof')
+txt2('GitHub', 'https://github.com/sumonhn22/')
+# txt2('', 'https://github.com/chaninlab/')
+# txt2('', 'https://github.com/dataprofessor')
+txt2('ORCID', 'https://orcid.org/my-orcid?orcid=0000-0002-6357-2300')
+## txt2('Scopus', 'http://www.scopus.com/authid/detail.url?authorId=12039071300')
+txt2('Google Scholar', 'https://scholar.google.com/citations?user=1TflLNcAAAAJ&hl=en')
+txt2('ResearchGate', 'https://www.researchgate.net/profile/M-Sumon-Hossain')
 
