@@ -16,9 +16,10 @@ st.image(image, width=150)
 
 st.markdown('## Summary', unsafe_allow_html=True)
 st.info('''
-- Experienced Educator and Researcher with almost ten years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
-- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `5` conferences as well as publishing 149 research articles.
-- Strong track record in scholarly research.
+- Self-learner and a team player. Willing to learn and adapting new tools and technologies.
+- Experienced Educator and Researcher with almost ten years of experience in mathematics and a passion for delivering insights based on modeling. 
+- Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `6` conferences as well as publishing 15 research articles.
+- Well track record in scholarly research.
 ''')
 ##  Experienced Educator and Researcher with almost ten years of experience in data-oriented environment and a passion for delivering insights based on predictive modeling. 
 ## - Strong verbal and written communication skills as demonstrated by extensive participation as invited speaker at `10` conferences as well as publishing 149 research articles.
